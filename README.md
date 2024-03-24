@@ -6,11 +6,11 @@ some questions to help us review how we felt about what we have done. :
 Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 The DriverPass project was a clients request to create a app/website that they can use to hel people have access to learning matierals
 and ways to practice and earn how t drive. To prepare future drivers for things peoplearn t prepared for withon the driving test.
-So i was tasked to analye what it is that they would like the sstem to do and determine all the specifics and functions necassary to fulfill
+So i was tasked to analye what it is that they would like the system to do and determine all the specifics and functions necassary to fulfill
 their requests. I also created diagrams and resources the programmers would use to begin creating the project after the clients approval.
 
 What did you do particularly well?
-I am confident that i was able to transer written dialogue of requests and aspects of the sysem into a fully fledged ot analysis. i felt i was comfotable understanding what it is that
+I am confident that i was able to transer written dialogue of requests and aspects of the sysem into a fully fledged out analysis. i felt i was comfotable understanding what it is that
 the wanted and could fully flush it out and ask questions on things they them selves wouldnt have thought of. I also am happy with my understanding of diagrams and how to use them.
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
