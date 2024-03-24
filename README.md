@@ -1,7 +1,7 @@
 # CS-255-System-analysis-and-design
 This is the product of 8 weeks of studying the process of analyzing systems and design. 
 Within the class we were asked to create this as a way to slowly build up our porfolio. So to do that we have been given 
-some questions to hel us revie how we felt about what we have done. :
+some questions to help us review how we felt about what we have done. :
 
 Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 The DriverPass project was a clients request to create a app/website that they can use to hel people have access to learning matierals
